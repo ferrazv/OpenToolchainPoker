@@ -1,8 +1,8 @@
 module.exports = function () {
 
   var info = {
-    name: "Nameless Challenger",
-    email: "",
+    name: "Nameless Valter",
+    email: "ferrazv@br.ibm.com",
     btcWallet: ""
   };
 
